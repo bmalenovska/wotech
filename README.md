@@ -29,4 +29,5 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
     }
 ```
 
+[Glossary](https://docs.oracle.com/javase/tutorial/information/glossary.html)
 
