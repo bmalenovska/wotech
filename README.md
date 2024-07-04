@@ -9,8 +9,9 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 
 ## My major projects ⛰️
 1. Java online banking app
-2. Python AI tool
-3. My own social network
+2. Java online cheese shop
+3. Java book management app
+4. Java tic tac toe game
 
 ## My favourite part of code
 ```java
